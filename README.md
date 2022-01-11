@@ -34,7 +34,7 @@ Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/DavySz/letmeask.git
-$ cd nlw-letmeask
+$ cd letmeask
 ```
 
 Follow the steps below:

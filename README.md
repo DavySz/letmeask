@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/github/stars/SampaioLeal/nlw-letmeask?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
-<h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/cover.svg" />
-</h1>
-
 <br>
 
 ## 📚 LetMeAsk

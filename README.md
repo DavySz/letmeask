@@ -27,7 +27,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/DavySz/letmeask.git
+$ git clone https://github.com/davysz/letmeask.git
 $ cd letmeask
 ```
 
